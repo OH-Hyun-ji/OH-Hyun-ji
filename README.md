@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hyun-ji%20CodeGream&fontSize=70)
-![OH-Hyun-ji's github stats](https://github-readme-stats.vercel.app/api?username=OH-Hyun-ji&show_icons=true)
+![OH-Hyun-ji's github stats](https://github-readme-stats.vercel.app/api?username=OH-Hyun-ji&theme=merko&show_icons=true)
